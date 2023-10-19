@@ -14,7 +14,7 @@ First Steps
     - RC:  **100**
     - Sensor:  **100**
 
-  **While you are in this page I recommend the following changes:**
+  **While you are in this page I recommend the following changes: **
     - Dist Units: **Personal preference**
     - Alt Units: **Feet** - Since operating restrictions are given in feet this is best to leave in feet to ensure you are operating within legal limits
     - Speed Units: **Personal preference** - meters_per_second or mph are recommended
