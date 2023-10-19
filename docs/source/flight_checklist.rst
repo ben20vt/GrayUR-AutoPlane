@@ -20,7 +20,7 @@ Procedure
 
 #. Connect the batteries to both inputs of the parallel power harness. Then connect the harness to the ESC power input
 
-  - You should hear a trill from the GPS - it will flash multiple colors as it starts up, then      begin flashing yellow. This indicates that the plane is now on standby
+  - You should hear a trill from the GPS - it will flash multiple colors as it starts up, then begin flashing yellow. This indicates that the plane is now on standby
   
   - You should hear two low-pitched beeps
 
@@ -35,6 +35,8 @@ Procedure
 #. Search for and open **Device Manager** on the ground station laptop (GCS). Expand the category **Ports (COM & LPT)** and search for the air radio.
 
 #. From the dropdown in the top left of MP, select COM(X) (where X is the number you identified in Device Manager)
+  
+  .. image:: docs/source/Picture1.png
 
   - Mission Planner will say "Mavlink Connecting" and take a few seconds to load all the 
   parameters from the flight controller. This can take significantly longer if there are 
