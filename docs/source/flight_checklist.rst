@@ -14,11 +14,11 @@ Pre-Flight Checklist
 
 Procedure
 ------------
-#. Open Mission Planner (MP)
-#. Connect the telemetry radio ground module to the laptop
+1. Open Mission Planner (MP)
+2. Connect the telemetry radio ground module to the laptop
   - You will see a flashing green light - this means the radio is on standby
 
-#. Connect the batteries to both inputs of the parallel power harness. Then connect the harness to the ESC power input
+3. Connect the batteries to both inputs of the parallel power harness. Then connect the harness to the ESC power input
 
   - You should hear a trill from the GPS - it will flash multiple colors as it starts up, then begin flashing yellow. This indicates that the plane is now on standby
   
@@ -32,9 +32,9 @@ Procedure
   indicates that data packets are being transmitted between the ground and air modules (I.E., 
   the radios are connected and talking to each other) 
 
-#. Search for and open **Device Manager** on the ground station laptop (GCS). Expand the category **Ports (COM & LPT)** and search for the air radio.
+4. Search for and open **Device Manager** on the ground station laptop (GCS). Expand the category **Ports (COM & LPT)** and search for the air radio.
 
-#. From the dropdown in the top left of MP, select COM(X) (where X is the number you identified in Device Manager)
+5. From the dropdown in the top left of MP, select COM(X) (where X is the number you identified in Device Manager)
   
   .. image:: docs/source/Picture1.png
 
@@ -43,10 +43,10 @@ Procedure
   communication issues between the air and ground radios (I.E. loose antenna connections or 
   significant distance between radios)
 
-#. To check that the flight controller is communicating with MP in realtime, move the plane or 
+6. To check that the flight controller is communicating with MP in realtime, move the plane or 
 flight controller around and confirm that the artificial horizon in the GCS interface moves as well.
 
-#. Turn on the handheld radio controller
+7. Turn on the handheld radio controller
 
   - The radio controller will beep once when it is powered on
   - This will be followed by a low and high pitch beep, which indicates that the radio 
@@ -57,7 +57,7 @@ flight controller around and confirm that the artificial horizon in the GCS inte
    The radio control system will fail to initialize until the throttle is moved to its minimum 
    position
 
-#. **[Optional]** Calibrate the radio
+8. **[Optional]** Calibrate the radio
 
   - Recommended if you are having servo trim or range of motion issues
 
@@ -69,7 +69,7 @@ flight controller around and confirm that the artificial horizon in the GCS inte
 
    Once you start the calibration process **you must finish it**. Move all sticks and switches     through all positions. Failure to do so may result in servo jitter which can damage servos      and control surfaces
 
-#. Check the current flight mode of the plane
+9. Check the current flight mode of the plane
 
   - **Setup > Mandatory Hardware > Flight Modes**
 
@@ -84,12 +84,12 @@ flight controller around and confirm that the artificial horizon in the GCS inte
    **When working with the plane on the bench, make sure that the prop is not mounted on the     
    motor, or that the motor is physically disconnected from the power supply, or both**
 
-#. Pre-arm the plane by pressing and holding the safety button on the GPS antenna. The button will change from blinking to solid blue. You will see the servos and control surfaces jump to position
+10. Pre-arm the plane by pressing and holding the safety button on the GPS antenna. The button will change from blinking to solid blue. You will see the servos and control surfaces jump to position
 
   - You will now have control over all aspects of the plane *except* throttle. Before doing 
   work on the plane, try giving some throttle input to make sure the motor does not engage.
 
-#. Check servo trim, direction of motion and range of motion
+11. Check servo trim, direction of motion and range of motion
 
   #. This is most easily done in the **Servo Output** tab under **Optional Hardware**
 
@@ -103,7 +103,7 @@ flight controller around and confirm that the artificial horizon in the GCS inte
 
   #. If direction of motion is incorrect, select the reverse button next to the incorrect servo
 
-#. Calibrate accelerometers (**Setup > Mandatory Hardware > Accel Calibration**)
+12. Calibrate accelerometers (**Setup > Mandatory Hardware > Accel Calibration**)
 
   .. note::
 
@@ -115,7 +115,7 @@ flight controller around and confirm that the artificial horizon in the GCS inte
 
   #. Select the middle option and hold the plane level (as it would be at cruising)
 
-#. Calibrate compass (**Setup > Mandatory Hardware > Accel Calibration**)
+13. Calibrate compass (**Setup > Mandatory Hardware > Accel Calibration**)
 
   .. note::
 
@@ -125,7 +125,7 @@ flight controller around and confirm that the artificial horizon in the GCS inte
   - Click start, under “onboard mag calibration” and rotate the plane about all axes until all 
   three green bars are full (this is a finicky process and requires two people)
 
-#. Check plane response in other flight modes than manual
+14. Check plane response in other flight modes than manual
 We currently use *FBWA**, **AutoTune**, and/or **Stabilize**
 
   - Rotate the plane and check that control surfaces deflect such that the plane would return 
@@ -133,22 +133,22 @@ We currently use *FBWA**, **AutoTune**, and/or **Stabilize**
 
 Final Checks
 ------------
-#. Is MP reading the proper battery voltage and current?
+1. Is MP reading the proper battery voltage and current?
 
-#. Is the plane at the correct location and heading when sitting on the runway?
+2. Is the plane at the correct location and heading when sitting on the runway?
 
-#. Do all other quick-reference values look normal?
+3. Do all other quick-reference values look normal?
 
-  For example:
+   For example:
 
-    - Ground speed
-    - Airspeed
-    - Altitude
-    - Current when a small throttle blip is applied
-    - # of GPS antennas connected (min 5 recommended)
-    - AOA reasonable for current position at rest
+     - Ground speed
+     - Airspeed
+     - Altitude
+     - Current when a small throttle blip is applied
+     - # of GPS antennas connected (min 5 recommended)
+     - AOA reasonable for current position at rest
 
-#. Are all failsafes configured correctly
+4. Are all failsafes configured correctly
   See [failsafe configuration] for more information]
 
 Arm Plane
