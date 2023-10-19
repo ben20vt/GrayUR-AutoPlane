@@ -1,11 +1,6 @@
 Welcome to the GRAYUR Autoplane documentation!
 ###############################################
 
-
-
-.. Check out the :doc:`usage` section for further information, including
-.. how to :ref:`installation` the project.
-
 .. note::
 
    This project is under active development.
@@ -21,3 +16,9 @@ Contents
    testing
    flight_checklist
    troubleshooting
+
+Created by Ben Koniers
+Contact: `ben20@vt.edu <mailto:ben20@vt.edu/>`_
+
+PI: Dr. David Gray
+Contact: `dagray3@vt.edu <mailto:dagray3@vt.edu/>`_

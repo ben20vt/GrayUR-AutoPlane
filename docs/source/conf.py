@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'GrayUR Autoplane'
-copyright = '2023, GrayUR'
+copyright = '2023, Ben Koniers'
 author = 'Ben Koniers'
 
 release = '0.1'
