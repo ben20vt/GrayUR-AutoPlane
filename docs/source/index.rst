@@ -27,7 +27,6 @@ Contents
 
 .. toctree::
 
-   usage
-   API
+   index
    quick_links
    flight_checklist
