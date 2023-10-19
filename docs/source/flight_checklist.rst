@@ -12,7 +12,7 @@ Pre-Flight Checklist
 
 
 1. Go to the `KEAS calendar page <https://sites.google.com/vt.edu/keaslab/calendar/>`_. Again, you will need to have membership of the KEAS Lab    
-Google Group in order to view and add the calendar to your own Google Calendar. Email 'Craig Woosley <mailto:cwoolsey@vt.edu>`_ Add the KEAS Lab calendar to your account using the "+Google Calendar" 
+Google Group in order to view and add the calendar to your own Google Calendar. Email 'Craig Woosley <mailto:cwoolsey@vt.edu>`_ for access. Add the KEAS Lab calendar to your account using the "+Google Calendar" 
 button in the lower right corner of the calendar.
 2. Go to your own Google Calendar and create an event on the KEAS Lab calendar. `See image for sample event     
 <https://lh6.googleusercontent.com/CeWCY8H0gj2z6x_dNc-WWb5gwOItTd47ffYVRHPm5HUkfh5qxLMrNPdnrz2fpgH54PX8nLxeyk8bjg52PrmPRp5dnhtIaZSchqNkVB8NTMs=w1280/>`_. 
