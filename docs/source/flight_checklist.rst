@@ -123,8 +123,8 @@ Arm Plane
 
 Important Contacts
 ------------------
-Brooks Saville, Agricultural Program Coordinator: bsaville@vt.edu
-Roanoke Approach: 540-563-5985
-Flight Service Station, to establish/cancel NOTAM: 1-877-4-US-NTMS (1-877-487-6867)
-  Note: KEAS is located 9.2 NM from PSK VOR on radial 050 (or 5.9 NM northeast of KPSK)
-Seymour Johnson AFB, to notify of NOTAM concerning VR43: 4oss.osos2@us.af.mil 
+- Brooks Saville, Agricultural Program Coordinator: bsaville@vt.edu
+- Roanoke Approach: 540-563-5985
+- Flight Service Station, to establish/cancel NOTAM: 1-877-4-US-NTMS (1-877-487-6867)
+   Note: KEAS is located 9.2 NM from PSK VOR on radial 050 (or 5.9 NM northeast of KPSK)
+- Seymour Johnson AFB, to notify of NOTAM concerning VR43: 4oss.osos2@us.af.mil 
