@@ -14,8 +14,10 @@ Weather
 ------------
 * `WeatherStem <https://montgomery.weatherstem.com/vtdronepark/>`_ 
 Current conditions at the Virginia Tech Drone Park
+
 * `nowCoast <https://nowcoast.noaa.gov/>`_ 
 NOAA weather radar
+
 * `NWS Radar <https://radar.weather.gov/?settings=v1_eyJhZ2VuZGEiOnsiaWQiOiJ3ZWF0aGVyIiwiY2VudGVyIjpbLTgwLjQxLDM3LjIyOV0sImxvY2F0aW9uIjpbLTgwLjQxLDM3LjIyOV0sInpvb20iOjd9LCJhbmltYXRpbmciOmZhbHNlLCJiYXNlIjoic3RhbmRhcmQiLCJhcnRjYyI6ZmFsc2UsImNvdW50eSI6ZmFsc2UsImN3YSI6ZmFsc2UsInJmYyI6ZmFsc2UsInN0YXRlIjpmYWxzZSwibWVudSI6dHJ1ZSwic2hvcnRGdXNlZE9ubHkiOmZhbHNlLCJvcGFjaXR5Ijp7ImFsZXJ0cyI6MC44LCJsb2NhbCI6MC42LCJsb2NhbFN0YXRpb25zIjowLjgsIm5hdGlvbmFsIjowLjZ9fQ%3D%3D/>`_ 
 alternate radar source
 
