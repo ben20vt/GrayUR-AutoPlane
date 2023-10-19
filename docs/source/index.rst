@@ -29,4 +29,8 @@ Contents
 
    index
    quick_links
+   mission_planner
+   configuration
+   testing
    flight_checklist
+   troubleshooting
