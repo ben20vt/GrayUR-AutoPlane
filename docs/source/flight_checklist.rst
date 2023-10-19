@@ -3,13 +3,11 @@ Pre-Flight Checklist
 
 .. warning::
 
-   Never power on air or ground radios without an antenna connected. This will kill the   
-   transmitters.
+   Never power on air or ground radios without an antenna connected. This will kill the transmitters.
 
 .. warning::
 
-   This sequence will cause the prop to spin. Keep the area around the prop clear at all times 
-   - assume that if power is connected the prop is able to spin 
+   This sequence will cause the prop to spin. Keep the area around the prop clear at all times - assume that if power is connected the prop is able to spin 
    without warning.
 
 
@@ -18,8 +16,7 @@ Google Group in order to view and add the calendar to your own Google Calendar. 
 button in the lower right corner of the calendar.
 2. Go to your own Google Calendar and create an event on the KEAS Lab calendar. `See image for sample event     
 <https://lh6.googleusercontent.com/CeWCY8H0gj2z6x_dNc-WWb5gwOItTd47ffYVRHPm5HUkfh5qxLMrNPdnrz2fpgH54PX8nLxeyk8bjg52PrmPRp5dnhtIaZSchqNkVB8NTMs=w1280/>`_. 
-Enter the proposed times for your planned activities. If they coincide with existing scheduled events, contact the respective activity leader to 
-deconflict. Include the following information in the reservation description:
+Enter the proposed times for your planned activities. If they coincide with existing scheduled events, contact the respective activity leader to deconflict. Include the following information in the reservation description:
  a. Name, cell phone number, and email for the Activity Leader who will be present.
  b. Name, cell phone number, and email for the Responsible Faculty Member.
  c. Details concerning the planned activity (nature, location, number of participants, spectrum usage, etc.)
