@@ -11,7 +11,7 @@ Avionics/Hardware Testing
 
 Servo Testing
 --------------
-After you have configured your servos as desired in [LINK TO mission_planner - servos], it is important to test them. 
+After you have configured your servos as desired in :ref:`servo-outputs`, it is important to test them. 
 
 
 Airframe Testing
