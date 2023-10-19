@@ -3,8 +3,9 @@ Quick Links
 
 General
 ------------
+| `GrayUR SharePoint <https://virginiatech.sharepoint.com/:f:/r/sites/GrayUR/Shared%20Documents/05_Projects/01_Autoplane?csf=1&web=1&e=aIVOsu/>`_ our project folder in the GrayUR SharePoint site. This is our repository for all files and documents. 
 
-| `WeatherStem <http://knowbeforeyoufly.org/>`_ is a campaign that provides prospective users with the information and guidance they need to fly safely and responsibly. Their `U.S. Airspace Map <http://knowbeforeyoufly.org/air-space-map/shows>`_ an easy-to-read overview of locations where drone flights are restricted, like around airports, heliports, and national parks. 
+| `Know Before You Fly <http://knowbeforeyoufly.org/>`_ is a campaign that provides prospective users with the information and guidance they need to fly safely and responsibly. Their `U.S. Airspace Map <http://knowbeforeyoufly.org/air-space-map/shows>`_ an easy-to-read overview of locations where drone flights are restricted, like around airports, heliports, and national parks. 
 
 Weather
 ------------
