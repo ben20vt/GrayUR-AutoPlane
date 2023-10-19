@@ -27,7 +27,6 @@ Contents
 
 .. toctree::
 
-   index
    quick_links
    mission_planner
    configuration
