@@ -7,13 +7,7 @@ General
    Our project folder in the GrayUR SharePoint site. This is our repository for all files and documents. 
 
 * `Virginia Tech UAS Policy <https://policies.vt.edu/5820.pdf/>`_ 
-   Operation of Unmanned Aircraft Systems (UAS) Policy No. 5820 
-
-   Kentland Experimental Aerial Systems (KEAS) Laboratory 
-   ------------------------------------------------------
-   * `KEAS Lab Google Site <https://sites.google.com/vt.edu/keaslab/home/>`_ 
-   * `KEAS Lab Rules <https://drive.google.com/file/d/1Ndqcj6EImUDaOu4WlpwamBmnko-nQqYa/view/>`_ 
-    
+   Operation of Unmanned Aircraft Systems (UAS) Policy No. 5820     
 
 * `Know Before You Fly <http://knowbeforeyoufly.org/>`_ 
    A campaign that provides prospective users with the information and guidance they need to fly safely and responsibly. Their `U.S. Airspace Map       
@@ -22,6 +16,10 @@ General
 * `Federal Aviation Administration UAS Portal <https://www.faa.gov/uas/>`_ 
    All things UAS in the United States. 
 
+Kentland Experimental Aerial Systems (KEAS) Laboratory 
+------------------------------------------------------
+* `KEAS Lab Google Site <https://sites.google.com/vt.edu/keaslab/home/>`_ 
+* `KEAS Lab Rules <https://drive.google.com/file/d/1Ndqcj6EImUDaOu4WlpwamBmnko-nQqYa/view/>`_ 
 
 Weather
 ------------
