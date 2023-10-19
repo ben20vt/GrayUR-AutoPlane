@@ -120,3 +120,11 @@ Arm Plane
 ------------
 -	In the field, this should be done by pressing and holding the safety button on the GPS. The GPS will beep when armed, and you will now be able to throttle up the motor.
 - In Surge or any other GPS-denied location, the plane must be force-armed. This can be done by clicking on the arm/disarm button found under the actions tab in the lower left corner of the MP home screen (where the map and artificial horizon are located)
+
+Important Contacts
+------------------
+Brooks Saville, Agricultural Program Coordinator: bsaville@vt.edu
+Roanoke Approach: 540-563-5985
+Flight Service Station, to establish/cancel NOTAM: 1-877-4-US-NTMS (1-877-487-6867)
+  Note: KEAS is located 9.2 NM from PSK VOR on radial 050 (or 5.9 NM northeast of KPSK)
+Seymour Johnson AFB, to notify of NOTAM concerning VR43: 4oss.osos2@us.af.mil 
