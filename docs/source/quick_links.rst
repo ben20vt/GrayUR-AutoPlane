@@ -20,6 +20,7 @@ Kentland Experimental Aerial Systems (KEAS) Laboratory
 ------------------------------------------------------
 * `KEAS Lab Google Site <https://sites.google.com/vt.edu/keaslab/home/>`_ 
 * `KEAS Lab Rules <https://drive.google.com/file/d/1Ndqcj6EImUDaOu4WlpwamBmnko-nQqYa/view/>`_ 
+* `KEAS Lab Calendar <https://sites.google.com/vt.edu/keaslab/calendar/>`_ 
 
 Weather
 ------------
