@@ -34,6 +34,7 @@ Avionics Setup
 Compass
 -------
 
+.. _servo-outputs:
 Servo Outputs
 -------------
 
