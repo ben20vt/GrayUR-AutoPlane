@@ -36,7 +36,7 @@ Procedure
 
 5. From the dropdown in the top left of MP, select COM(X) (where X is the number you identified in Device Manager)
   
-  .. image:: docs/source/Picture1.png
+  .. image:: Picture1.png
 
   - Mission Planner will say "Mavlink Connecting" and take a few seconds to load all the 
   parameters from the flight controller. This can take significantly longer if there are 
