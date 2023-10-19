@@ -30,3 +30,4 @@ Contents
    usage
    API
    quick_links
+   flight_checklist
