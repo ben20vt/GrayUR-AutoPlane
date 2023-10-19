@@ -12,6 +12,24 @@ Pre-Flight Checklist
    - assume that if power is connected the prop is able to spin 
    without warning.
 
+
+1. Go to the Calendar page using the link in the navigation bar at the top right of this page. Again, you will need to have membership of the KEAS Lab    
+Google Group in order to view and add the calendar to your own Google Calendar. Add the KEAS Lab calendar to your account using the "+Google Calendar" 
+button in the lower right corner of the calendar.
+2. Go to your own Google Calendar and create an event on the KEAS Lab calendar. `See image for sample event     
+<https://lh6.googleusercontent.com/CeWCY8H0gj2z6x_dNc-WWb5gwOItTd47ffYVRHPm5HUkfh5qxLMrNPdnrz2fpgH54PX8nLxeyk8bjg52PrmPRp5dnhtIaZSchqNkVB8NTMs=w1280/>`_. 
+Enter the proposed times for your planned activities. If they coincide with existing scheduled events, contact the respective activity leader to 
+deconflict. Include the following information in the reservation description:
+ a. Name, cell phone number, and email for the Activity Leader who will be present.
+ b. Name, cell phone number, and email for the Responsible Faculty Member.
+ c. Details concerning the planned activity (nature, location, number of participants, spectrum usage, etc.)
+3. Send a broadcast e-mail to the entire distribution list ('keas-lab@googlegroups.com <keas-lab@googlegroups.com/>`_) announcing your scheduled activity.
+
+.. Notice concerning RAAP::
+
+   Overflights of the Radford Army Ammunition Plant are strictly prohibited and are subject to Special Security Instructions (14 CFR, Sec. 99.7) as detailed in 
+   this `NOTAM FDC 8/3277 <https://www.google.com/url?q=https%3A%2F%2Ftfr.faa.gov%2Fsave_pages%2Fdetail_8_3277.html&sa=D&sntz=1&usg=AOvVaw0lJBTT8qSazJAbCC6Ier5W/>`_.
+
 Procedure
 ------------
 1. Open Mission Planner (MP)
