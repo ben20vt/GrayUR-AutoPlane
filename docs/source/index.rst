@@ -28,4 +28,5 @@ Contents
 .. toctree::
 
    usage
-   api
+   API
+   quick_links
