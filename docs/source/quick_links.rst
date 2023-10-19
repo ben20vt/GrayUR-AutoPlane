@@ -1,8 +1,8 @@
 Quick Links
-===================================
+############
 
 General
-------------
+*******
 * `GrayUR SharePoint <https://virginiatech.sharepoint.com/:f:/r/sites/GrayUR/Shared%20Documents/05_Projects/01_Autoplane?csf=1&web=1&e=aIVOsu/>`_ 
    Our project folder in the GrayUR SharePoint site. This is our repository for all files and documents. 
 
@@ -17,13 +17,13 @@ General
    All things UAS in the United States. 
 
 Kentland Experimental Aerial Systems (KEAS) Laboratory 
-------------------------------------------------------
+*******************************************************
 * `KEAS Lab Google Site <https://sites.google.com/vt.edu/keaslab/home/>`_ 
 * `KEAS Lab Rules <https://drive.google.com/file/d/1Ndqcj6EImUDaOu4WlpwamBmnko-nQqYa/view/>`_ 
 * `KEAS Lab Calendar <https://sites.google.com/vt.edu/keaslab/calendar/>`_ 
 
 Weather
-------------
+*********
 * `WeatherStem <https://montgomery.weatherstem.com/vtdronepark/>`_ 
    Current conditions at the Virginia Tech Drone Park
 
@@ -34,7 +34,7 @@ Weather
    Alternate radar source
 
 Flight Planning
-------------
+****************
 * `FAA Special Use Airspace (SUA) Tool <https://sua.faa.gov/sua/siteFrame.app/>`_   
    Helps you navigate specially designated airspace in your flight area.
 

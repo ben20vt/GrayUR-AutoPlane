@@ -1,5 +1,5 @@
 Configuration
-====================
+##############
 
 .. note::
 
@@ -7,4 +7,4 @@ Configuration
    absolutes.
 
 Procedure
-------------
+**********

@@ -1,8 +1,8 @@
 Welcome to the GRAYUR Autoplane documentation!
-===================================
+###############################################
 
 Project Description
---------
+********************
 Aerial surveying involves flying repeatedly over the area of interest while taking photographs.
 These photos can then be combined into a composite image and various post-processing
 techniques can be applied to highlight patterns and collect data. These surveys have the potential
@@ -23,7 +23,7 @@ evaluating the risk of forest fires, determining forest health, and monitoring i
    This project is under active development.
 
 Contents
---------
+*********
 
 .. toctree::
 

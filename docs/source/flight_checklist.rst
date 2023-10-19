@@ -1,5 +1,5 @@
 Pre-Flight Checklist
-====================
+######################
 
 .. warning::
 
@@ -28,7 +28,7 @@ Enter the proposed times for your planned activities. If they coincide with exis
    this `NOTAM FDC 8/3277 <https://www.google.com/url?q=https%3A%2F%2Ftfr.faa.gov%2Fsave_pages%2Fdetail_8_3277.html&sa=D&sntz=1&usg=AOvVaw0lJBTT8qSazJAbCC6Ier5W/>`_.
 
 Procedure
-------------
+**********
 1. Open Mission Planner (MP)
 2. Connect the telemetry radio ground module to the laptop
   - You will see a flashing green light - this means the radio is on standby
@@ -117,7 +117,7 @@ We currently use *FBWA**, **AutoTune**, and/or **Stabilize**
   to level if in flight
 
 Final Checks
-------------
+*************
 1. Is MP reading the proper battery voltage and current?
 2. Is the plane at the correct location and heading when sitting on the runway?
 3. Do all other quick-reference values look normal?
@@ -132,12 +132,12 @@ Final Checks
   See :doc:`configuration` for more information]
 
 Arm Plane
-------------
+***********
 -	In the field, this should be done by pressing and holding the safety button on the GPS. The GPS will beep when armed, and you will now be able to throttle up the motor.
 - In Surge or any other GPS-denied location, the plane must be force-armed. This can be done by clicking on the arm/disarm button found under the actions tab in the lower left corner of the MP home screen (where the map and artificial horizon are located)
 
 Important Contacts
-------------------
+*******************
 - Virginia Tech UAS Safety Office for Incident Reporting: 
   uassafety@vt.edu
   (540)231-7484
