@@ -114,7 +114,7 @@ Final Checks
      - # of GPS antennas connected (min 5 recommended)
      - AOA reasonable for current position at rest
 4. Are all failsafes configured correctly
-  See [failsafe configuration] for more information]
+  See :doc:`configuration` for more information]
 
 Arm Plane
 ------------
