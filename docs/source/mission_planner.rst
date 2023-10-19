@@ -33,10 +33,17 @@ Avionics Setup
 
 Compass
 -------
+Available hardware:
+- CUAV v5 Nano: **Compass**
+- External GPS: **GPS + Compass**
+
+
 
 .. _servo-outputs:
 Servo Outputs
 -------------
+
+
 
 ESC Calibration
 ---------------
