@@ -34,8 +34,9 @@ Avionics Setup
 Compass
 ==========================
 Available hardware:
-- CUAV v5 Nano: **Compass**
-- External GPS: **GPS + Compass**
+
+ - CUAV v5 Nano: **Compass**
+ - External GPS: **GPS + Compass**
 
 
 
@@ -45,9 +46,9 @@ Servo Outputs
 To configure servo outputs, first navigate to the **SETUP** tab. In the lefthand pane expand the **>>Mandatory Hardware** section, then select **Servo Output**
 
 The interface is split into a few key sections:
-- #
-- Function
-- Min, Trim, Max
+ - #
+ - Function
+ - Min, Trim, Max
 
 **#** directly corresponds to the physical port number on the flight controller for PWM outputs. For this example, we'll be configuring the **right aileron**, plugged into **port #1**.
 
