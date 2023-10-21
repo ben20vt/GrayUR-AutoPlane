@@ -25,6 +25,8 @@ Contents
 *********
 
 .. toctree::
+   :maxdepth: 1
+   
    project_description
    quick_links
    mission_planner
